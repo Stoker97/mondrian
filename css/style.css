@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.marcQuadre{
+  width: 784px;
+  height: 472px;
+  border: 0.1px solid black;
+}
+
+.flex{
+  display: flex;
+}
+
+.row{ 
+  flex-direction: row;
+}
+
+.column{
+  flex-direction: column;
+}
+
+/*MIDES*/
+
+.xxs{
+  flex: 1;
+}
+
+.xs{
+  flex: 2;
+}
+
+.s{
+  flex: 3;
+}
+
+.m{
+  flex: 4;
+}
+
+.l{
+  flex: 5;
+}
+
+.xl{
+  flex: 6;
+}
+
+.xxl{
+  flex: 7;
+}
+
+.xxxl{
+  flex: 8;
+}
+
+.xxxxl{
+  flex: 9;
+}
+
+/*ESTIL*/
+
+[class*=Color]{
+  border: 0.5px solid black;
+}
+
+.noBorderLeft{
+  border-left: 0.5px solid whitesmoke;
+}
+
+.noBorderRight{
+  border-right: 0.5px solid whitesmoke;
+}
+
+.blackColor{
+  background-color: black;
+}
+
+.blueColor{
+  background-color: blue;
+}
+
+.redColor{
+  background-color: red;
+}
+
+.yellowColor{
+  background-color: yellow;
+}
+
+.whiteColor{
+  background-color: whitesmoke;
+}
+
+
+
