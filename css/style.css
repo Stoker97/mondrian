@@ -1,8 +1,8 @@
 * {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    border: 0;
+    margin: 8;
+    padding: 2;
+    border: 1;
 }
 
 .marcQuadre{
@@ -76,15 +76,15 @@
 }
 
 .blackColor{
-  background-color: black;
+  background-color: whitesmoke;
 }
 
 .blueColor{
-  background-color: blue;
+  background-color: yellow;
 }
 
 .redColor{
-  background-color: red;
+  background-color: blue;
 }
 
 .yellowColor{
@@ -92,7 +92,7 @@
 }
 
 .whiteColor{
-  background-color: whitesmoke;
+  background-color: red;
 }
 
 
