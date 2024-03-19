@@ -80,15 +80,15 @@
 }
 
 .blueColor{
-  background-color: blue;
+  background-color: rgb(153, 0, 255);
 }
 
 .redColor{
-  background-color: red;
+  background-color: rgb(255, 0, 162);
 }
 
 .yellowColor{
-  background-color: yellow;
+  background-color: rgb(255, 115, 0);
 }
 
 .whiteColor{
